@@ -9,3 +9,4 @@
 * [Смайлики](fishki/smailiki.md)
 * [Значки](fishki/znachki.md)
 * [Головы](fishki/golovy.md)
+* [Информация будет дополнятся](fishki/informaciya-budet-dopolnyatsya.md)
