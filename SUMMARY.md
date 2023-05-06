@@ -9,4 +9,5 @@
 * [Смайлики](fishki/smailiki.md)
 * [Значки](fishki/znachki.md)
 * [Головы](fishki/golovy.md)
+* [Реферальная система](fishki/referalnaya-sistema.md)
 * [Информация будет дополнятся](fishki/informaciya-budet-dopolnyatsya.md)
